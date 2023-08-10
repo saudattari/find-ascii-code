@@ -8,5 +8,5 @@ int main(){
     cin>>ch;
     Sleep(4000);
     int n = ch;
-    cout<<"asci code of "<<ch<<" is: "<<n<<endl;
+    cout<<"asci code of "<<ch<<" is: "<<n;
 }
